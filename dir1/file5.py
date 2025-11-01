@@ -1,1 +1,0 @@
-print("You killed her in your anger")
